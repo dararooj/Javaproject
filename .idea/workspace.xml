@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff5eb73c-3c73-4c45-b315-7732cc2ac049" name="Changes" comment="fibonoic Series date:7/03/2023">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Numbers/Evenodd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year/Factorials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year/Leapyear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year/MainClass.java" afterDir="false" />
+    <list default="true" id="ff5eb73c-3c73-4c45-b315-7732cc2ac049" name="Changes" comment="fibonoic Series date:7/03/2023&#10;year=leapyear,calculator,reverse a number,factorial&#10;numbers=evenodd,swapnumbers on29/03/2023">
+      <change afterPath="$PROJECT_DIR$/src/Array/CopyArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/DuplicateElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/EvenElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ReverseElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Numbers/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Numbers/Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Numbers/Series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Numbers/Series.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Numbers/SwapNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Numbers/SwapNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,25 +38,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Numbers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Year.MainClass">
-    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.C" />
+  <component name="RunManager" selected="Application.Array.MainClass">
+    <configuration name="Array.MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.MainClass" />
       <module name="Javabook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.MainClass" />
+    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.C" />
       <module name="Javabook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array.MainClass" />
         <item itemvalue="Application.Year.MainClass" />
         <item itemvalue="Application.Numbers.Numbers" />
         <item itemvalue="Application.Numbers" />
         <item itemvalue="Application.C" />
-        <item itemvalue="Application.MainClass" />
       </list>
     </recent_temporary>
   </component>
@@ -147,13 +143,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678260164227</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fibonoic Series date:7/03/2023&#10;year=leapyear,calculator,reverse a number,factorial&#10;numbers=evenodd,swapnumbers on29/03/2023">
+      <created>1680127684144</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680127684144</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sorting,swaping" />
     <MESSAGE value="fibonoic Series date:7/03/2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="fibonoic Series date:7/03/2023" />
+    <MESSAGE value="fibonoic Series date:7/03/2023&#10;year=leapyear,calculator,reverse a number,factorial&#10;numbers=evenodd,swapnumbers on29/03/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="fibonoic Series date:7/03/2023&#10;year=leapyear,calculator,reverse a number,factorial&#10;numbers=evenodd,swapnumbers on29/03/2023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
