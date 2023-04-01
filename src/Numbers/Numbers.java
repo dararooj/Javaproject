@@ -11,8 +11,8 @@ public class Numbers {
         Evenodd EO=new Evenodd();
         EO.EvenOddNumber();
 
-//        Series S=new Series();
-//        S.series();
+        Series SS=new Series();
+        SS.series();
     }
 }
 
