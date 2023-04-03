@@ -12,7 +12,7 @@ public class MainClass {
         RE.reverseelements();
         EvenElements EE=new EvenElements();
         EE.evenelements();
-        ArmStrong AM=new ArmStrong();
-        AM.armstrong();
+        LargestElement LM=new LargestElement();
+        LM.largestelement();
     }
 }

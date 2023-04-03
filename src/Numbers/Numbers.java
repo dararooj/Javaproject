@@ -15,6 +15,8 @@ public class Numbers {
         SS.series(A);
         PalindromeNumber PN =new PalindromeNumber();
         PN.palindromenumber();
+        ArmStrong AM=new ArmStrong();
+        AM.armstrong();
     }
 }
 
