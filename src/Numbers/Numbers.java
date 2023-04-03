@@ -10,9 +10,11 @@ public class Numbers {
         F.fabinoic(11);
         Evenodd EO=new Evenodd();
         EO.EvenOddNumber();
-
+        int[] A={1, 2,3, 5,8,13,21,34};
         Series SS=new Series();
-        SS.series();
+        SS.series(A);
+        PalindromeNumber PN =new PalindromeNumber();
+        PN.palindromenumber();
     }
 }
 

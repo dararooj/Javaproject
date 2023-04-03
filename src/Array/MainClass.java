@@ -1,5 +1,7 @@
 package Array;
 
+import Numbers.ArmStrong;
+
 public class MainClass {
     public static void main(String[] args) {
         CopyArrayElements CE=new CopyArrayElements();
@@ -10,5 +12,7 @@ public class MainClass {
         RE.reverseelements();
         EvenElements EE=new EvenElements();
         EE.evenelements();
+        ArmStrong AM=new ArmStrong();
+        AM.armstrong();
     }
 }

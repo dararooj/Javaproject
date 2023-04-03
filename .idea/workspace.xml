@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff5eb73c-3c73-4c45-b315-7732cc2ac049" name="Changes" comment="fibonoic Series date:7/03/2023&#10;year=leapyear,calculator,reverse a number,factorial&#10;numbers=evenodd,swapnumbers on29/03/2023">
-      <change afterPath="$PROJECT_DIR$/src/Array/CopyArrayElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/DuplicateElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/EvenElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ReverseElements.java" afterDir="false" />
+    <list default="true" id="ff5eb73c-3c73-4c45-b315-7732cc2ac049" name="Changes" comment="&#10;fibinacci series on31/03/2023">
+      <change afterPath="$PROJECT_DIR$/src/Numbers/ArmStrong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Numbers/PalindromeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Numbers/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Numbers/Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Numbers/Series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Numbers/Series.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,8 +113,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Array.MainClass" />
-        <item itemvalue="Application.Year.MainClass" />
         <item itemvalue="Application.Numbers.Numbers" />
+        <item itemvalue="Application.Year.MainClass" />
         <item itemvalue="Application.Numbers" />
         <item itemvalue="Application.C" />
       </list>
@@ -150,14 +150,31 @@
       <option name="project" value="LOCAL" />
       <updated>1680127684144</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fibonoic Series date:7/03/2023&#10;year=leapyear,calculator,reverse a number,factorial&#10;numbers=evenodd,swapnumbers on29/03/2023&#10;on 31/03/2023=array=copyarrayelements,duplicate elements,even elements,reverse elements.">
+      <created>1680308195252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680308195252</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&#10;fibinacci series on31/03/2023">
+      <created>1680333273985</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680333273985</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sorting,swaping" />
     <MESSAGE value="fibonoic Series date:7/03/2023" />
     <MESSAGE value="fibonoic Series date:7/03/2023&#10;year=leapyear,calculator,reverse a number,factorial&#10;numbers=evenodd,swapnumbers on29/03/2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="fibonoic Series date:7/03/2023&#10;year=leapyear,calculator,reverse a number,factorial&#10;numbers=evenodd,swapnumbers on29/03/2023" />
+    <MESSAGE value="fibonoic Series date:7/03/2023&#10;year=leapyear,calculator,reverse a number,factorial&#10;numbers=evenodd,swapnumbers on29/03/2023&#10;on 31/03/2023=array=copyarrayelements,duplicate elements,even elements,reverse elements." />
+    <MESSAGE value="fibonoic Series date:7/03/2023&#10;year=leapyear,calculator,reverse a number,factorial&#10;numbers=evenodd,swapnumbers on29/03/2023&#10;on 31/03/2023=array=copyarrayelements,duplicate elements,even elements,reverse elements.&#10;fibinacci series on31/03/2023" />
+    <MESSAGE value="&#10;fibinacci series on31/03/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;fibinacci series on31/03/2023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
