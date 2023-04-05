@@ -9,7 +9,7 @@ public class Main {
     void arraysone(){
         int[] A={3,2,5,4,1};
         int B=1;
-        for(int i=0;i<=A.length;i++){
+        for(int i=0;i<=A.length-1;i++){
             if(A[i]==B){
                 System.out.println(" element is present at index "+i+" ");
             }

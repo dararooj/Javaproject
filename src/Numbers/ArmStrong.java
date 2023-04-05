@@ -2,7 +2,7 @@ package Numbers;
 
 public class ArmStrong {
     public void armstrong() {
-        int no = 1634;
+        int no =124;
         int temp = no;
         int leng = 0;
         while (temp != 0) {
@@ -15,10 +15,12 @@ public class ArmStrong {
         int mul = 1;
         while (temp1 != 0) {
             rem = temp1 % 10;
-            for (int i = 0; i <= leng; i++) {
+            for (int i = 0; i < leng; i++) {
                 mul = mul * rem;
             }
+
             arm = arm + mul;
+            mul=1;
             temp1 = temp1 / 10;
         }
         if (arm == no) {

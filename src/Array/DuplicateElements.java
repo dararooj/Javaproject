@@ -6,9 +6,10 @@ public class DuplicateElements {
         for (int i=1;i<A.length;i++){
             for(int j=i+1;j< A.length;j++){
                 if (A[i]==A[j]){
-                    System.out.print(A[i] + " ");
+                    System.out.print(A[i]+" ");
                 }
             }
         }
+        System.out.println(" are duplicate elements ");
     }
 }

@@ -8,10 +8,12 @@ public class CopyArrayElements {
             array2[i]=array1[i];
         }
         for (int i=0;i<array1.length;i++){
-            System.out.println("Elements of array1:" + array1[i]);
+            System.out.print( array1[i] + " " );
         }
+        System.out.println("elements of array1");
         for (int i=0;i<array2.length;i++){
-            System.out.println("Elements of array2:"+array2[i]);
+            System.out.print(array2[i] +" " );
         }
+        System.out.println("elements of array2");
     }
 }

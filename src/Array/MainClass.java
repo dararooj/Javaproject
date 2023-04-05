@@ -14,5 +14,12 @@ public class MainClass {
         EE.evenelements();
         LargestElement LM=new LargestElement();
         LM.largestelement();
+        SumElements SE=new SumElements();
+        SE.sumelements();
+        AscendingOrder AC=new AscendingOrder();
+        AC.ascendingorder();
+        int[] A={13,98,78,64,27};
+        ThirdLargestElement TLE=new ThirdLargestElement();
+        TLE.thirdlargestelement(A);
     }
 }
