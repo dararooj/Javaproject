@@ -10,5 +10,7 @@ public class MainClass {
         F.factorial();
         ReverseANumber RN=new ReverseANumber();
         RN.reverse();
+        ReverseName RR=new ReverseName();
+        RR.reversename();
     }
 }

@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff5eb73c-3c73-4c45-b315-7732cc2ac049" name="Changes" comment="&#10;largest element on 03/04/2023">
-      <change afterPath="$PROJECT_DIR$/src/Array/AscendingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/SumElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/ThirdLargestElement.java" afterDir="false" />
+    <list default="true" id="ff5eb73c-3c73-4c45-b315-7732cc2ac049" name="Changes" comment="&#10;ascending oreder,third largest element on 04/04/2023">
+      <change afterPath="$PROJECT_DIR$/src/Matrix/AddTwoMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Matrix/MainMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Matrix/MatrixEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year/ReverseName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/CopyArrayElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/CopyArrayElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/DuplicateElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/DuplicateElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/EvenElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/EvenElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/ReverseElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/ReverseElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Numbers/ArmStrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Numbers/ArmStrong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Numbers/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Numbers/PalindromeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/ThirdLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/ThirdLargestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Year/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year/MainClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +51,7 @@
       <recent name="Numbers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Array.MainClass">
+  <component name="RunManager" selected="Application.MainMatrix">
     <configuration name="Array.MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.MainClass" />
       <module name="Javabook" />
@@ -77,9 +72,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Numbers" />
+    <configuration name="MainMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Matrix.MainMatrix" />
       <module name="Javabook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Matrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainMatrix" />
+        <item itemvalue="Application.Year.MainClass" />
         <item itemvalue="Application.Array.MainClass" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Numbers.Numbers" />
-        <item itemvalue="Application.Year.MainClass" />
-        <item itemvalue="Application.Numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680559172687</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&#10;ascending oreder,third largest element on 04/04/2023">
+      <created>1680657801127</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680657801127</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,7 +198,8 @@
     <MESSAGE value="&#10;fibinacci series on31/03/2023" />
     <MESSAGE value="&#10;palindrome no,armstrong no on 03/04/2023" />
     <MESSAGE value="&#10;largest element on 03/04/2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;largest element on 03/04/2023" />
+    <MESSAGE value="&#10;ascending oreder,third largest element on 04/04/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;ascending oreder,third largest element on 04/04/2023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -204,6 +213,11 @@
           <url>file://$PROJECT_DIR$/src/Test/Abstract.java</url>
           <line>25</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Matrix/MainMatrix.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Test/Abstract.java</url>
