@@ -2,15 +2,20 @@ package Matrix;
 
 public class MatrixEqual {
     void matrixequal() {
-        int[][] A = {{1, 3, 8}, {8, 9, 10}, {8, 4, 7}};
+        int[][] A = {{1, 3, 8}, {6, 9, 10}, {8, 4, 7}};
         int[][] B = {{1, 3, 8}, {8, 9, 10}, {8, 4, 7}};
-        //for (int i=0;i<3;i++){
-        //for (int j=0;j<3;j++){
-            if (A==B){
-                System.out.println("matrix are equal");
+        boolean isMatrix = true;
+        for (int i = 0; i < A.length; i++) {
+            for (int j = 0; j < A.length; j++) {
+                if (A[i][j] != B[i][j]) {
+                    isMatrix = false;
+                }
+            }
         }
-            else
-                System.out.println("matrix are not equal");
+        if (isMatrix) {
+            System.out.println("matrix are equal");
+        } else {
+            System.out.println("is not a matrix");
+        }
     }
-    }
-
+}

@@ -17,5 +17,6 @@ public class ThirdLargestElement {
             }
         }
        System.out.println(Arrays.toString(A));
+        System.out.println(A[len-3]);
     }
 }
