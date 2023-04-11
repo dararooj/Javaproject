@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff5eb73c-3c73-4c45-b315-7732cc2ac049" name="Changes" comment="&#10;Matrix on 06/04/2023">
-      <change afterPath="$PROJECT_DIR$/src/String/CountPunctuations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/MainString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/NumberOfCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/VowelsOrConsonants.java" afterDir="false" />
+    <list default="true" id="ff5eb73c-3c73-4c45-b315-7732cc2ac049" name="Changes" comment="&#10;String on 08/04/2023">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/RemoveWhiteSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Upper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/ThirdLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/ThirdLargestElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Matrix/MatrixEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Matrix/MatrixEqual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Year/ReverseName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year/ReverseName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/MainString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/MainString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680831307718</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&#10;String on 08/04/2023">
+      <created>1681070929879</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681070929879</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -208,7 +213,8 @@
     <MESSAGE value="&#10;largest element on 03/04/2023" />
     <MESSAGE value="&#10;ascending oreder,third largest element on 04/04/2023" />
     <MESSAGE value="&#10;Matrix on 06/04/2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;Matrix on 06/04/2023" />
+    <MESSAGE value="&#10;String on 08/04/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;String on 08/04/2023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
