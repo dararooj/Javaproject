@@ -1,15 +1,16 @@
 package Array;
 
+import java.util.HashSet;
+import java.util.Set;
+
 public class DuplicateElements {
-    void duplicateelements(){
-        int[] A={1,2,4,2,3,4,5,6,7,6,8};
-        for (int i=1;i<A.length;i++){
-            for(int j=i+1;j< A.length;j++){
-                if (A[i]==A[j]){
-                    System.out.print(A[i]+" ");
-                }
+    void duplicateelements() {
+        int[] A={1,3,2,3,4,5,4,6};
+        Set<Integer> B=new HashSet<>();
+        for(int i=0;i<A.length;i++){
+            if (B.add(A[i])==false){
+                System.out.println(A[i]);
             }
         }
-        System.out.println(" are duplicate elements ");
     }
-}
+    }

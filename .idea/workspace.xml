@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff5eb73c-3c73-4c45-b315-7732cc2ac049" name="Changes" comment="&#10;String on 08/04/2023">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/RemoveWhiteSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Upper.java" afterDir="false" />
+    <list default="true" id="ff5eb73c-3c73-4c45-b315-7732cc2ac049" name="Changes" comment="&#10; 11/04/2023">
+      <change afterPath="$PROJECT_DIR$/src/List/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/ArrayList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/MainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/List/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/VowelAlphabits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/DuplicateElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/DuplicateElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/String/MainString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/MainString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +52,7 @@
       <recent name="Numbers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainString">
+  <component name="RunManager" selected="Application.Array.MainClass">
     <configuration name="Array.MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.MainClass" />
       <module name="Javabook" />
@@ -64,9 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="MainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List.MainArray" />
       <module name="Javabook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array.MainClass" />
+        <item itemvalue="Application.MainArray" />
         <item itemvalue="Application.MainString" />
         <item itemvalue="Application.MainMatrix" />
-        <item itemvalue="Application.Array.MainClass" />
         <item itemvalue="Application.Year.MainClass" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681070929879</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="&#10; 11/04/2023">
+      <created>1681236462867</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681236462868</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -214,7 +229,8 @@
     <MESSAGE value="&#10;ascending oreder,third largest element on 04/04/2023" />
     <MESSAGE value="&#10;Matrix on 06/04/2023" />
     <MESSAGE value="&#10;String on 08/04/2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;String on 08/04/2023" />
+    <MESSAGE value="&#10; 11/04/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10; 11/04/2023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -229,10 +245,15 @@
           <line>25</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/List/MainArray.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Test/Abstract.java</url>
           <line>26</line>
-          <properties class="Test.C" method="main">
+          <properties class="Test.C">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>

@@ -16,5 +16,7 @@ public class MainString {
      RMW.removewhitespace();
      Upper U=new Upper();
      U.upper();
+//     VowelAlphabits VA=new VowelAlphabits();
+//     VA.vowelalphabits();
     }
 }
