@@ -21,5 +21,9 @@ public class MainClass {
         int[] A={13,98,78,64,27};
         ThirdLargestElement TLE=new ThirdLargestElement();
         TLE.thirdlargestelement(A);
+        MaxMinNumber MM=new MaxMinNumber();
+        MM.maxminumber();
+        MissingNumber MN=new MissingNumber();
+        MN.missingnumber();
     }
 }

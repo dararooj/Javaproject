@@ -8,5 +8,6 @@ public class SimpleInterest {
        int t=6;
        si=P*r*t;
        SI=si/100;
+        System.out.println(SI);
     }
 }

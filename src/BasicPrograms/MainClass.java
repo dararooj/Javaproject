@@ -30,5 +30,7 @@ public class MainClass {
          MT.multiply();
          Neon N=new Neon();
          N.neon(8);
+         VowelOrConsonent VC=new VowelOrConsonent();
+         VC.vowelorconsonent("r");
     }
 }
