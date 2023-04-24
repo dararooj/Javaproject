@@ -10,5 +10,9 @@ public class Main {
       RR.rectangle();
       NormalTriangle NT=new NormalTriangle();
       NT.normaltriangle();
+      PlusPattern PP=new PlusPattern();
+      PP.plus();
+      CrossPattern CP=new CrossPattern();
+      CP.cross(5);
     }
 }

@@ -25,5 +25,9 @@ public class MainClass {
         MM.maxminumber();
         MissingNumber MN=new MissingNumber();
         MN.missingnumber();
+        OccurenceOfANo OFN=new OccurenceOfANo();
+        OFN.occurenceano();
+        MergeTwoArrays MTA=new MergeTwoArrays();
+        MTA.arrays();
     }
 }
