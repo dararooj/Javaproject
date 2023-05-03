@@ -29,5 +29,9 @@ public class MainClass {
         OFN.occurenceano();
         MergeTwoArrays MTA=new MergeTwoArrays();
         MTA.arrays();
+        SameIndexValue Same=new SameIndexValue();
+        Same.samevalue();
+        AlternateElements AE=new AlternateElements();
+        AE.alternateelements();
     }
 }

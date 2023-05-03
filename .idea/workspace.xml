@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff5eb73c-3c73-4c45-b315-7732cc2ac049" name="Changes" comment="&#10; 20/04/2023">
-      <change afterPath="$PROJECT_DIR$/src/Array/MergeTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/OccurenceOfANo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/CrossPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/PlusPattern.java" afterDir="false" />
+    <list default="true" id="ff5eb73c-3c73-4c45-b315-7732cc2ac049" name="Changes" comment="&#10; 21/04/2023">
+      <change afterPath="$PROJECT_DIR$/src/Array/AlternateElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/SameIndexValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WithOutLoop/CountDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WithOutLoop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WithOutLoop/Median.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WithOutLoop/NumberOneToN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Array/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/MissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pattern/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
       <recent name="Numbers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Array.MainClass">
+  <component name="RunManager" selected="Application.WithOutLoop.Main">
     <configuration name="Array.MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.MainClass" />
       <module name="Javabook" />
@@ -106,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.MainString" />
+    <configuration name="WithOutLoop.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WithOutLoop.Main" />
       <module name="Javabook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String.*" />
+          <option name="PATTERN" value="WithOutLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WithOutLoop.Main" />
         <item itemvalue="Application.Array.MainClass" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.MainArray" />
-        <item itemvalue="Application.MainString" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +236,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681951171574</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="&#10; 20/04/2023">
+      <created>1682359884940</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1682359884940</updated>
+    </task>
+    <task id="LOCAL-00016" summary="&#10; 21/04/2023">
+      <created>1682359928908</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1682359928908</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -256,7 +270,8 @@
     <MESSAGE value="&#10; 17/04/2023" />
     <MESSAGE value="&#10; 19/04/2023" />
     <MESSAGE value="&#10; 20/04/2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10; 20/04/2023" />
+    <MESSAGE value="&#10; 21/04/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10; 21/04/2023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
