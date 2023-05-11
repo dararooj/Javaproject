@@ -5,6 +5,7 @@ import java.util.Set;
 
 public class DuplicateElements {
     void duplicateelements() {
+        System.out.println("*****************");
         int[] A={1,3,2,3,4,5,4,6};
         Set<Integer> B=new HashSet<>();
         for(int i=0;i<A.length;i++){

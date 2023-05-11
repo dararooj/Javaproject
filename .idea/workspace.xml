@@ -4,15 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff5eb73c-3c73-4c45-b315-7732cc2ac049" name="Changes" comment="&#10; 21/04/2023">
-      <change afterPath="$PROJECT_DIR$/src/Array/AlternateElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/SameIndexValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WithOutLoop/CountDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WithOutLoop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WithOutLoop/Median.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WithOutLoop/NumberOneToN.java" afterDir="false" />
+    <list default="true" id="ff5eb73c-3c73-4c45-b315-7732cc2ac049" name="Changes" comment="&#10; 10/05/2023">
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/Arooj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/SimpleProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/OverLoadig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/MultipleInheritence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/DuplicateElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/DuplicateElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/MissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicPrograms/ArmStrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicPrograms/ArmStrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicPrograms/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicPrograms/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicPrograms/fibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicPrograms/fibonacciSeries.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,21 +52,23 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="OOPS" />
       <recent name="Numbers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WithOutLoop.Main">
-    <configuration name="Array.MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.MainClass" />
+  <component name="RunManager" selected="Application.OOPS.MainClass">
+    <configuration name="Divide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exceptions.Divide" />
       <module name="Javabook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,11 +77,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern.Main" />
+      <option name="MAIN_CLASS_NAME" value="Exceptions.Main" />
       <module name="Javabook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern.*" />
+          <option name="PATTERN" value="Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List.MainArray" />
+    <configuration name="MultipleInheritence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.MultipleInheritence" />
       <module name="Javabook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="List.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicPrograms.MainClass" />
+    <configuration name="OOPS.MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.MainClass" />
       <module name="Javabook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicPrograms.*" />
+          <option name="PATTERN" value="OOPS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WithOutLoop.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WithOutLoop.Main" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exceptions.main" />
       <module name="Javabook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WithOutLoop.*" />
+          <option name="PATTERN" value="Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WithOutLoop.Main" />
-        <item itemvalue="Application.Array.MainClass" />
+        <item itemvalue="Application.OOPS.MainClass" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.MainArray" />
+        <item itemvalue="Application.Divide" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.MultipleInheritence" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +259,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682359928908</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="&#10; 2/05/2023">
+      <created>1683148395453</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1683148395453</updated>
+    </task>
+    <task id="LOCAL-00018" summary="&#10; 2/05/2023">
+      <created>1683424020964</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1683424020964</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -271,7 +294,9 @@
     <MESSAGE value="&#10; 19/04/2023" />
     <MESSAGE value="&#10; 20/04/2023" />
     <MESSAGE value="&#10; 21/04/2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10; 21/04/2023" />
+    <MESSAGE value="&#10; 2/05/2023" />
+    <MESSAGE value="&#10; 10/05/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10; 10/05/2023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -296,10 +321,20 @@
           <line>2</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/MissingNumber.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Numbers/Numbers.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Test/Abstract.java</url>
           <line>26</line>
-          <properties class="Test.C">
+          <properties class="Test.C" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -316,5 +351,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

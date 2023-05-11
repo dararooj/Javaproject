@@ -6,6 +6,8 @@ public class MainClass {
     public static void main(String[] args) {
         SwapNumbersOne SW=new SwapNumbersOne();
          SW.swapnumberone();
+         ArmStrong AS=new ArmStrong();
+         AS.armstrong();
          SwapNumbersTwo ST=new SwapNumbersTwo();
          ST.swapnumberstwo(30,50);
          LeapYear LY=new LeapYear();
@@ -29,7 +31,7 @@ public class MainClass {
          MultiplyTwoFloatingNo MT=new MultiplyTwoFloatingNo();
          MT.multiply();
          Neon N=new Neon();
-         N.neon(8);
+         N.neon(9);
          VowelOrConsonent VC=new VowelOrConsonent();
          VC.vowelorconsonent("r");
     }

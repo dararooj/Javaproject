@@ -1,15 +1,25 @@
 package Array;
+import java.util.*;
+import java.io.PrintStream;
+import java.util.ArrayList;
 
 public class MissingNumber {
-    void missingnumber() {//???
-        int[] A = {1,2,3,5};
-        int expected_no_elements=A.length;
-         int total_sum=expected_no_elements*(expected_no_elements+1)/2;
-        System.out.println(total_sum);
-        int sum=0;
-        for (int i=0;i<A.length;i++){
-            sum=sum-A[i];
+    public static void main(String[] args) {
+        missingnumber();
+    }
+
+    static void missingnumber() {
+        System.out.println("$$$$$$$$$$$");
+        int[] A = {1, 2,4, 5, 6, 7, 9};
+        int xor1 = A[0];
+        for (int i = 1; i < A.length; i++) {
+            xor1 = xor1 ^ A[i];
         }
-        System.out.println("missing no is: " + sum);
+        int xor2 = 1;
+        for (int i = 2; i <= (A.length + 1); i++) {
+            xor2 = xor2 ^ i;
+        }
+        System.out.println("missing element is " + (xor1 ^ xor2));
+
     }
-    }
+}

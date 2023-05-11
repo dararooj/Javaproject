@@ -1,5 +1,5 @@
 package BasicPrograms;
-
+//java program to run the even sum of fibonacci series
 public class fibonacciSeries {
     void fibonaicciseries(){
         int[] A = {1, 2,3, 5,8,13,21,34,55};
