@@ -5,21 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff5eb73c-3c73-4c45-b315-7732cc2ac049" name="Changes" comment="&#10; 10/05/2023">
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/Arooj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/Divide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/SimpleProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/TryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/OverLoadig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/MultipleInheritence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/Multiply.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/DuplicateElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/DuplicateElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/MissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicPrograms/ArmStrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicPrograms/ArmStrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicPrograms/ComplexNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicPrograms/ComplexNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicPrograms/GetInputFromUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicPrograms/GetInputFromUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicPrograms/HcfOfTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicPrograms/HcfOfTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicPrograms/LCMOfTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicPrograms/LCMOfTwoNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BasicPrograms/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicPrograms/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicPrograms/fibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicPrograms/fibonacciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicPrograms/NumbersFromStandaedInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicPrograms/NumbersFromStandaedInput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +55,13 @@
       <recent name="Numbers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OOPS.MainClass">
-    <configuration name="Divide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptions.Divide" />
+  <component name="RunManager" selected="Application.Multiply">
+    <configuration name="GetInputFromUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicPrograms.GetInputFromUser" />
       <module name="Javabook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exceptions.*" />
+          <option name="PATTERN" value="BasicPrograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +82,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultipleInheritence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.MultipleInheritence" />
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicPrograms.MainClass" />
       <module name="Javabook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="BasicPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exceptions.Multiply" />
+      <module name="Javabook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,26 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptions.main" />
-      <module name="Javabook" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Multiply" />
+        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.GetInputFromUser" />
         <item itemvalue="Application.OOPS.MainClass" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Divide" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.MultipleInheritence" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683424020964</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="&#10; 10/05/2023">
+      <created>1683773808459</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1683773808459</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

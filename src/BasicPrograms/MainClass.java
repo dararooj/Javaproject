@@ -34,5 +34,12 @@ public class MainClass {
          N.neon(9);
          VowelOrConsonent VC=new VowelOrConsonent();
          VC.vowelorconsonent("r");
+     HcfOfTwoNumbers Hcf=new HcfOfTwoNumbers();
+     Hcf.hcfoftwonumbers();
+     LCMOfTwoNumbers lcm=new LCMOfTwoNumbers();
+     lcm.numbers();
+     System.out.println("######A#######");
+     NumbersFromStandaedInput nn=new NumbersFromStandaedInput();
+     nn.number();
     }
 }
