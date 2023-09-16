@@ -1,8 +1,9 @@
 package Sorting;
 
-public class MultipleInheritence implements animals{
-    public static void main(String[] args) {
-        System.out.println("hi");
+public class MultipleInheritence implements animals,Books{
+
+   public void a(){
+        System.out.println("arooj");
     }
 }
 interface animals{
@@ -12,10 +13,10 @@ interface  trees{
  final int y=9;
 }
 interface Books{
-abstract void a();
+    void a();
     final int z=6;
 }
 
 interface copies extends Books{
-abstract int run();
+ int run();
 }

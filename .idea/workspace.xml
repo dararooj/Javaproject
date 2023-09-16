@@ -4,15 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff5eb73c-3c73-4c45-b315-7732cc2ac049" name="Changes" comment="&#10; 10/05/2023">
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/Multiply.java" afterDir="false" />
+    <list default="true" id="ff5eb73c-3c73-4c45-b315-7732cc2ac049" name="Changes" comment="&#10; 12/05/2023">
+      <change afterPath="$PROJECT_DIR$/src/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicPrograms/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/AndOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/Arrays/ArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/Arrays/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/Arrays/Delete2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/Arrays/DeleteElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/Arrays/InsertElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/Arrays/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/CountSetBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/IsSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitwiseOperators/LeftorRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/Greek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/Hashing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/StackPrg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mathematics/CountDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mathematics/CountDivisors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mathematics/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mathematics/HCF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mathematics/LCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mathematics/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mathematics/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mathematics/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mathematics/TrailingZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Fibnacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/NaturalNoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Print1toN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/PrintNto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Recursion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Recursion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Recursion3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/MyThread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/MyThread2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicPrograms/ComplexNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicPrograms/ComplexNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicPrograms/GetInputFromUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicPrograms/GetInputFromUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicPrograms/HcfOfTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicPrograms/HcfOfTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicPrograms/LCMOfTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicPrograms/LCMOfTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicPrograms/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicPrograms/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicPrograms/NumbersFromStandaedInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicPrograms/NumbersFromStandaedInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/Divide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/Divide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/MainArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List/MainArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/MultipleInheritence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/MultipleInheritence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +59,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -55,13 +93,13 @@
       <recent name="Numbers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Multiply">
-    <configuration name="GetInputFromUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicPrograms.GetInputFromUser" />
+  <component name="RunManager" selected="Application.MyThread1">
+    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.C" />
       <module name="Javabook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicPrograms.*" />
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptions.Main" />
+    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.GFG" />
       <module name="Javabook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exceptions.*" />
+          <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicPrograms.MainClass" />
+    <configuration name="Hashing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.Hashing" />
       <module name="Javabook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicPrograms.*" />
+          <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptions.Multiply" />
+    <configuration name="MyThread1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.MyThread1" />
       <module name="Javabook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exceptions.*" />
+          <option name="PATTERN" value="Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOPS.MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPS.MainClass" />
+    <configuration name="MyThread2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.MyThread2" />
       <module name="Javabook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPS.*" />
+          <option name="PATTERN" value="Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Multiply" />
-        <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.GetInputFromUser" />
-        <item itemvalue="Application.OOPS.MainClass" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MyThread1" />
+        <item itemvalue="Application.MyThread2" />
+        <item itemvalue="Application.C" />
+        <item itemvalue="Application.GFG" />
+        <item itemvalue="Application.Hashing" />
       </list>
     </recent_temporary>
   </component>
@@ -273,8 +311,33 @@
       <option name="project" value="LOCAL" />
       <updated>1683773808459</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="&#10; 12/05/2023">
+      <created>1683945097410</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1683945097410</updated>
+    </task>
+    <task id="LOCAL-00021" summary="&#10; 12/05/2023">
+      <created>1683945157991</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1683945157991</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sorting,swaping" />
@@ -296,7 +359,8 @@
     <MESSAGE value="&#10; 21/04/2023" />
     <MESSAGE value="&#10; 2/05/2023" />
     <MESSAGE value="&#10; 10/05/2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10; 10/05/2023" />
+    <MESSAGE value="&#10; 12/05/2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10; 12/05/2023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -305,11 +369,6 @@
           <url>file://$PROJECT_DIR$/src/Sorting/MainClass.java</url>
           <line>6</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Test/Abstract.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/List/MainArray.java</url>
@@ -331,14 +390,15 @@
           <line>2</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Test/Abstract.java</url>
-          <line>26</line>
-          <properties class="Test.C" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="3" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BasicPrograms/Sum.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BitwiseOperators/AndOperator.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Array/MainClass.java</url>
